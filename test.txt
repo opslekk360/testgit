@@ -1,1 +1,5 @@
 This is my first text file on git.
+
+Tutorial - How to Install and Configure Git and GitHub (Windows)
+
+https://www.youtube.com/watch?v=J_Clau1bYco
